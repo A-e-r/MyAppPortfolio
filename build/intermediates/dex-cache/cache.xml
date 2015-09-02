@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ar/udacity/nanodegree/lesson4/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/ar/udacity/nanodegree/lesson4/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/classes-8e01f39e134cdb1633412a8da994b1b690f8b647.jar" />
+    </item>
+    <item
+        jar="/Users/ar/udacity/nanodegree/lesson4/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/ar/udacity/nanodegree/lesson4/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-9f51982f0b3e3573b6d713a91fdcea8c25ed41c0.jar" />
+    </item>
+    <item
+        jar="/Users/ar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/ar/udacity/nanodegree/lesson4/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-b6eb894fedbd4858f2611e60af44837a0b4453a1.jar" />
+    </item>
+    <item
+        jar="/Users/ar/udacity/nanodegree/lesson4/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/ar/udacity/nanodegree/lesson4/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/classes-85d68d57b617a75fe0b624c2d9df20f67820489e.jar" />
+    </item>
+
+</items>
